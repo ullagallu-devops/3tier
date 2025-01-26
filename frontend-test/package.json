@@ -1,7 +1,7 @@
 {
   "name": "crud-app",
   "version": "1.0.0",
-  "description": "A simple CRUD application with a frontend and API integration.",
+  "description": "A simple CRUD application with a frontend and API integration..",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
