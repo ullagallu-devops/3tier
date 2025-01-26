@@ -1,7 +1,7 @@
 {
   "name": "crud-app",
   "version": "1.0.0",
-  "description": "A simple CRUD application with a frontend and API integration..",
+  "description": "A simple CRUD application with a frontend and API integration.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -22,7 +22,7 @@
     "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
     "newrelic": "^9.17.1",
-    "@opentelemetry/api": "^1.2.0",
+    "@opentelemetry/api": "^1.1.0",
     "@opentelemetry/sdk-node": "^0.31.0",
     "@opentelemetry/semconv": "^0.1.0",
     "@opentelemetry/exporter-collector": "^0.23.0"
