@@ -64,7 +64,7 @@ app.post('/api/entries', async (req, res) => {
   const { amount, description } = req.body;
 
   if (!amount || !description) {
-    return errorResponse(res, 400, 'Amount and description are required');
+    return errorResponse(res, 400, 'amount and description are required');
   }
 
   try {
